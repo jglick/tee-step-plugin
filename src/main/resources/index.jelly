@@ -1,4 +1,0 @@
-<?jelly escape-by-default='true'?>
-<div>
-    Adds a Pipeline tee step.
-</div>
